@@ -51,5 +51,4 @@ Acesse nosso site [clicando aqui!](https://labefood5-shaw.surge.sh)
    
 ## 👨‍💻 Desenvolvedores:
    
-| [Bruno Siqueira](https://github.com/brunosp-49) | [Layane Bastos](https://github.com/LayaneB) | [Martin Sejas](https://github.com/martinsejas) | [Michael Douglas](https://github.com/michaeldouglasf) | [William Freitas](https://github.com/Dottysoli)
-| :---: | :---: | :---: | :---: | :---: |
+ [Michael Douglas](https://github.com/michaeldouglasf) 
