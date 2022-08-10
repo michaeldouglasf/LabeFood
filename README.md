@@ -44,11 +44,16 @@ Acesse nosso site [clicando aqui!](https://labefood5-shaw.surge.sh)
 ![image](https://user-images.githubusercontent.com/50851374/169713569-f3899c7d-393a-429e-9fb7-164ee8245a6e.png)
 ![image](https://user-images.githubusercontent.com/50851374/169713629-712d4e10-4bf7-42ef-8c14-21fa1ee16391.png)
 ![image](https://user-images.githubusercontent.com/50851374/169714056-f3102254-d6fb-4241-afec-b8ee3ce66b74.png)
-![image](https://user-images.githubusercontent.com/50851374/169715320-9afab5bc-d4cf-43c3-ac73-6e5dc63d5d7a.png)
-![image](https://user-images.githubusercontent.com/50851374/169715353-f3e85ef0-2d55-4553-a2e9-3c1e8be4e4ec.png)
-![image](https://user-images.githubusercontent.com/50851374/169715385-5291aa21-60a6-4b7d-801f-2607384f210b.png)
+
+![Captura de tela de 2022-08-10 10-32-02](https://user-images.githubusercontent.com/80003041/183868263-e1b55892-635c-4ebb-9929-1c8d8b32e6a5.png)
+![Captura de tela de 2022-08-10 10-31-09](https://user-images.githubusercontent.com/80003041/183868336-618bed71-7717-498e-a96a-cf6168c41716.png)
+
+
+
 
    
 ## 👨‍💻 Desenvolvedores:
    
  [Michael Douglas](https://github.com/michaeldouglasf) 
+ ### Login: michaeldouglas@gmail.com.br
+ ###  Password: 987654
